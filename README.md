@@ -19,7 +19,7 @@ Before you begin, ensure you have the following software installed on your machi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-product-list.git
+   git clone https://github.com/sukanya-2000/react-product-list.git
    ```
 
 2. **Navigate to the project directory:**
@@ -86,4 +86,3 @@ The project structure is organized as follows:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Copy this content and replace the existing README.md in your GitHub repository. Let me know if there's anything specific you'd like to add or modify!
